@@ -1,3 +1,5 @@
+torch
+transformers
 langchain-core
 langchain-community
 langchain-text-splitters
